@@ -40,5 +40,16 @@ main{
 .descricao p{
     font-size: 0.8125rem;
     color: var(--gray-600);
-    
 }
+
+.input-box{
+    display: flex;
+    flex-direction: column;
+}
+
+.login label{
+    font-size: 0.375rem;
+    color: var(--gray-800);
+    font-weight: 600;
+}
+
