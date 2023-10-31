@@ -114,3 +114,9 @@ main{
     font-weight: 700;
     font-size: 1rem;
 }
+
+@media(min-width: 1000px){
+    header{
+        
+    }
+}
